@@ -1,0 +1,179 @@
+<vGrabberLang>
+	<langProperties>
+		<langName>English</langName>
+		<langAuthorName>Mustafa Berkan BICER</langAuthorName>
+		<langAuthorMail>mberkanbicer@hotmail.com</langAuthorMail>
+	</langProperties>
+	<langStrings>
+		<langString>
+			<id>1</id>
+			<shortStr>address</shortStr>
+			<fullString>Adress :</fullString>
+		</langString>
+		<langString>
+			<id>2</id>
+			<shortStr>grab</shortStr>
+			<fullString>Grab!</fullString>
+		</langString>
+		<langString>
+			<id>3</id>
+			<shortStr>fbinformation</shortStr>
+			<fullString>Facebook Information</fullString>
+		</langString>
+		<langString>
+			<id>4</id>
+			<shortStr>email</shortStr>
+			<fullString>Email</fullString>
+		</langString>
+		<langString>
+			<id>5</id>
+			<shortStr>password</shortStr>
+			<fullString>Password</fullString>
+		</langString>
+		<langString>
+			<id>6</id>
+			<shortStr>whymust</shortStr>
+			<fullString>Why I have to supply these?</fullString>
+		</langString>
+		<langString>
+			<id>7</id>
+			<shortStr>whymust_desc</shortStr>
+			<fullString>Because some of facebook videos requires you log in to view it. So you have to enter these informations to be able to log in and download via this program!</fullString>
+		</langString>
+		<langString>
+			<id>8</id>
+			<shortStr>savedata</shortStr>
+			<fullString>Save My Data</fullString>
+		</langString>
+		<langString>
+			<id>9</id>
+			<shortStr>fileinfo</shortStr>
+			<fullString>File Information</fullString>
+		</langString>
+		<langString>
+			<id>10</id>
+			<shortStr>localfile</shortStr>
+			<fullString>Local File :</fullString>
+		</langString>
+		<langString>
+			<id>11</id>
+			<shortStr>filesize</shortStr>
+			<fullString>File Size :</fullString>
+		</langString>
+		<langString>
+			<id>12</id>
+			<shortStr>remain</shortStr>
+			<fullString>Remain :</fullString>
+		</langString>
+		<langString>
+			<id>13</id>
+			<shortStr>current</shortStr>
+			<fullString>Current :</fullString>
+		</langString>
+		<langString>
+			<id>14</id>
+			<shortStr>downloaded</shortStr>
+			<fullString>Downloaded :</fullString>
+		</langString>
+		<langString>
+			<id>15</id>
+			<shortStr>status</shortStr>
+			<fullString>Status :</fullString>
+		</langString>
+		<langString>
+			<id>16</id>
+			<shortStr>exit</shortStr>
+			<fullString>Exit</fullString>
+		</langString>
+		<langString>
+			<id>17</id>
+			<shortStr>fbinformation_enter</shortStr>
+			<fullString>Please enter your facebook informations!</fullString>
+		</langString>
+		<langString>
+			<id>18</id>
+			<shortStr>unsupported_size</shortStr>
+			<fullString>You have entered an unsupported video url!</fullString>
+		</langString>
+		<langString>
+			<id>19</id>
+			<shortStr>wrong_informations</shortStr>
+			<fullString>You have entered wrong informations or have done wrong operation. Please check your informations and operation!</fullString>
+		</langString>
+		<langString>
+			<id>20</id>
+			<shortStr>parsing_indirect</shortStr>
+			<fullString>Parsing Facebook Indirect URL...</fullString>
+		</langString>
+		<langString>
+			<id>21</id>
+			<shortStr>logging_in</shortStr>
+			<fullString>Logging In...</fullString>
+		</langString>
+		<langString>
+			<id>22</id>
+			<shortStr>get_oid</shortStr>
+			<fullString>Getting OID Data...</fullString>
+		</langString>
+		<langString>
+			<id>23</id>
+			<shortStr>grab_direct</shortStr>
+			<fullString>Grabbing Direct Video URL...</fullString>
+		</langString>
+		<langString>
+			<id>24</id>
+			<shortStr>grabbed_direct</shortStr>
+			<fullString>Direct Video URL Grabbed...</fullString>
+		</langString>
+		<langString>
+			<id>25</id>
+			<shortStr>parsing_direct</shortStr>
+			<fullString>Parsing Direct Video URL...</fullString>
+		</langString>
+		<langString>
+			<id>26</id>
+			<shortStr>downloading_file</shortStr>
+			<fullString>Downloading Video...</fullString>
+		</langString>
+		<langString>
+			<id>27</id>
+			<shortStr>downloaded_file</shortStr>
+			<fullString>Video Downloaded...</fullString>
+		</langString>
+		<langString>
+			<id>28</id>
+			<shortStr>tools</shortStr>
+			<fullString>Tools</fullString>
+		</langString>
+		<langString>
+			<id>29</id>
+			<shortStr>language</shortStr>
+			<fullString>Language</fullString>
+		</langString>
+		<langString>
+			<id>30</id>
+			<shortStr>help</shortStr>
+			<fullString>Help</fullString>
+		</langString>
+		<langString>
+			<id>31</id>
+			<shortStr>web</shortStr>
+			<fullString>Web Site</fullString>
+		</langString>
+		<langString>
+			<id>32</id>
+			<shortStr>about</shortStr>
+			<fullString>About</fullString>
+		</langString>
+		<langString>
+			<id>33</id>
+			<shortStr>save</shortStr>
+			<fullString>Save</fullString>
+		</langString>
+		<langString>
+			<id>34</id>
+			<shortStr>restart</shortStr>
+			<fullString>To use this language, you have to restart program!</fullString>
+		</langString>
+	</langStrings>
+</vGrabberLang>

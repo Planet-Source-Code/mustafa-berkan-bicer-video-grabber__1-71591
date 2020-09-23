@@ -1,0 +1,19 @@
+You can download Facebook videos and Youtube videos with this program.
+
+You must have msxml.dll, msxml2.dll, comctl32.ocx and msinet.ocx in your system32 folder.
+You can download these files from here :
+
+http://www.mustafaberkanbicer.com.tr/code/msinet.rar
+http://www.mustafaberkanbicer.com.tr/code/comctl32.rar
+http://www.mustafaberkanbicer.com.tr/code/msxml.rar
+http://www.mustafaberkanbicer.com.tr/code/msxml2.rar
+
+Copy these files to your system32 folder. Then type first;
+
+regsvr32 msxml.ocx
+
+to Start>Run... Then type;
+
+regsvr32 msxml2.ocx
+
+and register there ocx files.
